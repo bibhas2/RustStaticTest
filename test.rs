@@ -1,4 +1,4 @@
-#[link(name = "MySimpleLibrary")] 
+#[link(name = "MySimpleDLL")] 
 extern {
         fn say_hello();
 }
