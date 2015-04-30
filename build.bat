@@ -1,0 +1,1 @@
+rustc -L MySimpleLibrary\Release test.rs
